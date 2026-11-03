@@ -55,4 +55,4 @@ The source is MIT-licensed. If you're interested in the project, want to report 
 
 ---
 
-**Release delivery note:** This `sstt` repository is currently a **private release-workflow sandbox**. Its draft artifacts are for testing GitHub's delivery process and may not reflect the current Simple STT source. Public installers will be linked from the official website only after build verification and publication.
+**Release delivery note:** This `sstt` repository is currently a **public release-workflow sandbox**, separate from the eventual production release channel. Its `v0.0.0-release-lab.1` prerelease contains older portable HTML artifacts used to verify direct anonymous downloads; those files may not reflect the current Simple STT source. Public production installers will be linked from the official website only after build verification and deliberate publication.
